@@ -58,4 +58,3 @@ Se habrá instalado Visual Studio Code.
 
 > [Codigo IoT](https://github.com/codigo-iot)
 >
-
