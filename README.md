@@ -47,10 +47,6 @@ Comenzará la instalación de la aplicación.
 
 Se habrá instalado Visual Studio Code.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/08-Instalar-Visual-Studio-Code/main/Im%C3%A1genes/Instalar%20Visual%20Studio%20Code%20(7).png](https://raw.githubusercontent.com/RaulToribio/08-Instalar-Visual-Studio-Code/main/Im%C3%A1genes/Instalar%20Visual%20Studio%20Code%20(7).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
