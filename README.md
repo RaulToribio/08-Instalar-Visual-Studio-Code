@@ -1,5 +1,3 @@
-# 08-Instalar-Visual-Studio-Code
-
 # Introducción
 
 Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux y MacOS. Es una herramienta de desarrollo de código multiplataforma que incluye características como resaltado de sintaxis, depuración, control de versiones, refactorización de código, entre otras. Es gratuito y de código abierto, lo que permite a los desarrolladores personalizar y extender sus funciones.
